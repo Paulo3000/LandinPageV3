@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans&display=swap');
+
+.menu nav{
+    /* background-color: black; */
+    display: flex;
+    padding-left: 33%;
+     
+}
+ img{
+ 
+   
+  background-repeat: no-repeat;
+  transform: translateX(25px); 
+  
+  
+}
+
+/*.bg:hover{
+transform: scaleX(1.5);
+} */
+
+a{
+    color:black;
+  cursor: pointer;
+  /* font-family: 'Bebas Neue', cursive; */
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:15px ;
+  text-decoration: none;
+  
+}
+
+
+
+/* ---------------------------------------pagina sobre ------------------------------ */
+
+.tsobre p{
+margin-left: 100px;
+margin-right: 100px;
+ text-align: justify;
+ font-size: 20px;
+}
+h1{
+  margin-top: 20px;
+  text-align: center;
+  color: white;
+  
+}
+.tituloP{
+  background-color: rgb(45,45,45);
+  margin-left: 100px;
+  margin-right: 100px;
+  
+}
+ .tituloP .barra{
+  
+  background-color: rgb(242, 211, 6);
+  height: 20px;
+} 
+.menu2{
+  display: flex;
+  padding-left: 33%;
+}
+.menu2 a{
+  color:black;
+}
+/* ---------------------------------------pagina menu ------------------------------ */
+.cardapio  {
+ 
+ display: flex;
+ margin-left: 200px;
+
+ 
+}
+.m3{
+  padding-left: 100px;
+ padding-top: 200px ;
+}
+.m2{
+  padding-left: 100px;
+ padding-top: 200px ;
+}
+.m1{
+  padding-left: 100px;
+  padding-top: 200px ;
+}
+ .barra1{
+  background-color: rgb(45,45,45);
+  margin-top: 20px;
+ 
+}
+.barra2{
+  background-color: rgb(242, 211, 6);
+  margin-top: -20px;
+} 
