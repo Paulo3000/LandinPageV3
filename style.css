@@ -34,8 +34,8 @@ a{
 /* ---------------------------------------pagina sobre ------------------------------ */
 
 .tsobre p{
-margin-left: 100px;
-margin-right: 100px;
+margin-left: 25px;
+margin-right: 25px;
  text-align: justify;
  font-size: 20px;
 }
@@ -47,8 +47,8 @@ h1{
 }
 .tituloP{
   background-color: rgb(45,45,45);
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 25px;
+  margin-right: 25px;
   
 }
  .tituloP .barra{
@@ -63,6 +63,7 @@ h1{
 .menu2 a{
   color:black;
 }
+
 /* ---------------------------------------pagina menu ------------------------------ */
 .cardapio  {
  
@@ -86,9 +87,21 @@ h1{
  .barra1{
   background-color: rgb(45,45,45);
   margin-top: 20px;
+  margin-left: 25px;
+margin-right: 25px;
  
 }
 .barra2{
   background-color: rgb(242, 211, 6);
   margin-top: -20px;
+  margin-left: 25px;
+margin-right: 25px;
 } 
+pre{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: px;
+}
+.menuCardapio  {
+    display: flex;
+    padding-left: 33%;
+}
