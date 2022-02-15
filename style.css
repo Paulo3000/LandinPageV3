@@ -124,8 +124,30 @@ pre{
   font-size: 20px;
   color: rgb(45,45,45);
  }
+ .m1:hover{
+  transform: scale(1.5);
+}
+.m2:hover{
+  transform: scale(1.5);
+}
+.m3:hover{
+  transform: scale(1.5);
+}
 /*----------------------------------------------------------------feedback */
 .fb{
   display: flex;
   padding-left: 33%;
+}
+ 
+.container h4{
+ text-align: center;
+ margin-top: 100px;
+ margin-left: -160px;
+}
+.container textarea{
+  margin-left: 30%;
+}
+input{
+  margin-top: 10px;
+ margin-left: 741px;
 }
